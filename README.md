@@ -7,9 +7,9 @@ Componentes del Equipo
 (Máximo 4 integrantes por grupo)
 
 + Juan José Jiménez Espinosa (Desarrollo y Sistemas)
-+ Nombre del integrante #4 (Sistemas)
-+ Nombre del integrante #2 (Diseñador)
-+ Nombre del integrante #3 (Maquetadora)
++ Jose Maria Lopez Torres (Sistemas)
++ Eduardo Morales(Diseñador y Maquetador)
++ Fermin Santillana (Diseñador y Maquetador)
 
 Descripción
 -------------
@@ -18,7 +18,8 @@ Esta aplicacion consta de dos tipos de usuarios (ayudantes y ayudados), gracias 
 Estado del desarrollo actual
 ----------------------------
 Localizacion de las personas y guaradado en la base de datos
-Mockup: https://www.fluidui.com/editor/live/showProject/p_WhT9FAXT0dqky7ETkTAldJI9nzf7dbCE.1395556223950#x_OchWU1R65TStsIn8PLT7LghweZcNXKv6
+
+Mockup: https://www.fluidui.com/editor/live/preview/p_UPkaSKGwsTIIoSpK9HaSVMTNnJDGesKw.1395564532492
 
 Especificaciones Técnicas
 --------------------------
