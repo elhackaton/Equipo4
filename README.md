@@ -18,6 +18,7 @@ Esta aplicacion consta de dos tipos de usuarios (ayudantes y ayudados), gracias 
 Estado del desarrollo actual
 ----------------------------
 Localizacion de las personas y guaradado en la base de datos
+Mockup: https://www.fluidui.com/editor/live/showProject/p_WhT9FAXT0dqky7ETkTAldJI9nzf7dbCE.1395556223950#x_OchWU1R65TStsIn8PLT7LghweZcNXKv6
 
 Especificaciones Técnicas
 --------------------------
