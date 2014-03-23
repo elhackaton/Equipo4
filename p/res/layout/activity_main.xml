@@ -27,32 +27,40 @@
 	    android:layout_marginBottom="5dp"
 	    android:background="#aaaaaa" 
 	    android:textColor="#000000" />
-	    
-	<TextView android:id="@+id/LblPosPrecision"
-	    android:layout_width="match_parent" 
-	    android:layout_height="wrap_content" 
-	    android:background="#aaaaaa" 
-	    android:textColor="#000000" />
-	    
-	<Button android:id="@+id/BtnActualizar" 
-		android:layout_width="match_parent" 
-		android:layout_height="wrap_content"
-		android:text="@string/activar" />
-		
-	<Button android:id="@+id/BtnDesactivar" 
-		android:layout_width="match_parent" 
-		android:layout_height="wrap_content"
-		android:text="@string/desactivar" />
-		
-	<TextView android:id="@+id/LblEst"
-	    android:layout_width="match_parent" 
-	    android:layout_height="wrap_content" 
-	    android:text="@string/estado_proveedor" />
-	    
-	<TextView android:id="@+id/LblEstado"
-	    android:layout_width="match_parent" 
-	    android:layout_height="wrap_content" 
-	    android:background="#aaaaaa" 
-	    android:textColor="#000000" />
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/BtnActualizar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/activar" />
+
+        <Button
+            android:id="@+id/BtnDesactivar"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:text="@string/desactivar" />
+
+        <Button
+            android:id="@+id/btnConsultar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cons" />
+
+        <Button
+            android:id="@+id/btnInsertar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ins" />
+
+    </LinearLayout>
+	 <TextView
+        android:id="@+id/txtResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+	
 </LinearLayout>
